@@ -1,0 +1,23 @@
+{
+  "name": "grades-control-api",
+  "version": "1.0.0",
+  "description": "desafio do módulo 2, bootcamp IGTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreVitorErin/grades-control-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreVitorErin/grades-control-api/issues"
+  },
+  "homepage": "https://github.com/AndreVitorErin/grades-control-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
+  }
+}
